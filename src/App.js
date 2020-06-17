@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      PAKISTAN ZINDABAD 
+      PAKISTAN ZiNDABAD 
           </div>
   );
 }
