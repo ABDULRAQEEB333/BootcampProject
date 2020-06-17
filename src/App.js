@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App">
       PAKISTAN ZiNDABAD 
+      Welcome TO all Repected Teachers
+      
           </div>
   );
 }
